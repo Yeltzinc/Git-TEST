@@ -1,6 +1,11 @@
 #include <iostream>
 using namespace std;
 int main(){
-reverseArray()
+    int array[]={1,2,3,4};
+    for(int i=0;i<=3;i++)
+    {
+        cout<<" "<<array[i];
     }
- int reverseArray()
+    return 0;
+}
+
